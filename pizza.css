@@ -1,3 +1,7 @@
+body{
+    background-image: url("hatter.jpg");
+}
+
 #ajanlat {
     text-align: center;
     border-radius: 20px;
